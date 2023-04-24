@@ -1,0 +1,15 @@
+body {
+  font-family: "Verdana";
+  text-align: center;
+  background-color: aqua;
+}
+
+button {
+  color: black;
+  background-color: rgb(255, 255, 255);
+  width: 200px;
+  padding: 20px;
+  border: 300px;
+  border-color: black;
+  text-align: center;
+}
